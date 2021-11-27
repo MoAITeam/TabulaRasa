@@ -6,9 +6,11 @@ A python minimax implementation to play Tablut.This piece of code has been reali
 # How to run
 
 In order to play with white player:
-
-  tabularasa.py WHITE localhost
+```
+tabularasa.py WHITE localhost
+```
   
 In order to play with BLACK player:
-
-  tabularasa.py BLACK localhost
+```
+tabularasa.py BLACK localhost
+```
