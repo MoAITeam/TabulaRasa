@@ -497,7 +497,8 @@ def main():
 
 if __name__ == '__main__':
 
-    player,server = main()
+    player,timeout, server = main()
+    timeout = timeout - 10
 
 
     w = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
