@@ -498,6 +498,7 @@ def main():
 if __name__ == '__main__':
 
     player,timeout, server = main()
+    timeout = int(timeout)
     timeout = timeout - 10
 
 
