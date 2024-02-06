@@ -2,7 +2,7 @@
 <p align="center">
 
 <div align="center">
-    <img src="https://lh3.googleusercontent.com/proxy/DKi0TJFrKsM1SPwQYGQZsZCBh2Nx4bR7MQxuzFhnwSekON3vtwq2cL20NimWaQKltrCeSvqjmXH6Y-tEQ6F01sdtyLzYtNhsyyERHsKbbsyvgX3jWbKy5eld3GE9YLzx"  alt="Tablut Game"/>
+    <img src="tablut.png"  alt="Tablut Game"/>
 </div>
 
 <br> 
