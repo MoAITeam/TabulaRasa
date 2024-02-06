@@ -1,7 +1,13 @@
-# TabulaRasa
-![alt text](https://i.pinimg.com/474x/61/55/c7/6155c7e9b569245a3dea0fc8028c31f3--easter-island-art-design.jpg)
+<h1 align="center">Tablut AI  challenge 2021</h1>
+<p align="center">
 
-A python minimax implementation to play Tablut.This piece of code has been realized in order to participate in the 2021 Tablut Competition for the Fundamental of Artificial Intelligence course held at Unibo.
+<div align="center">
+    <img src="https://lh3.googleusercontent.com/proxy/DKi0TJFrKsM1SPwQYGQZsZCBh2Nx4bR7MQxuzFhnwSekON3vtwq2cL20NimWaQKltrCeSvqjmXH6Y-tEQ6F01sdtyLzYtNhsyyERHsKbbsyvgX3jWbKy5eld3GE9YLzx"  alt="Tablut Game"/>
+</div>
+
+<br> 
+
+A python minimax implementation to play Tablut. This piece of code has been realized in order to participate in the 2021 Tablut Competition for the Fundamentals of Artificial Intelligence course held at Unibo. Our team name was "TabulaRasa", hence the python script name.
 
 # How to run
 
@@ -14,3 +20,5 @@ In order to play with BLACK player:
 ```
 tabularasa.py BLACK localhost
 ```
+
+### NOTE: the instructions assume the Tablut Challenge server is running
